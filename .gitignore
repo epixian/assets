@@ -13,4 +13,5 @@ storage/*.key
 Homestead.yaml
 Homestead.json
 /.vagrant
-public/
+public/js
+public/css

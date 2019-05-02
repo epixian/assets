@@ -22,7 +22,7 @@
                         <section class="mb-8">
                             <h5 class="uppercase font-bold mb-3">The Brand</h5>
                             <ul class="list-reset">
-                                <li class="text-sm leading-loose"><router-link class="text-black" to="/logo">Logo</router-link></li>
+                                <li class="text-sm leading-loose"><router-link class="text-black" to="/" exact>Logo</router-link></li>
                                 <li class="text-sm leading-loose"><router-link class="text-black" to="/logo-symbol">Logo Symbol</router-link></li>
                                <li class="text-sm leading-loose"><router-link class="text-black" to="/colors">Colors</router-link></li>
                                <li class="text-sm leading-loose"><router-link class="text-black" to="/typography">Typography</router-link></li>

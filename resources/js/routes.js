@@ -4,8 +4,9 @@ import Colors from './components/Colors';
 import Typography from './components/Typography';
 import Mascot from './components/Mascot';
 import Illustrations from './components/Illustrations';
-import LoadersAnimations from './components/LoadersAnimations';
 import Wallpapers from './components/Wallpapers';
+
+let LoadersAnimations = () => import('./components/LoadersAnimations');
 
 export default {
     mode: 'history',
